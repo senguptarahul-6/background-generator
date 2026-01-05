@@ -15,3 +15,4 @@ A JavaScript-based tool that generates dynamic background gradients and displays
 - Clean and responsive UI
 
 ## Live Demo
+https://senguptarahul-6.github.io/background-generator/
